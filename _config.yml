@@ -1,9 +1,9 @@
-title:              TL;DR
-email:              mmrojo@gmail.com
-description:        Reflexiones
-author:             Marcos Rojo
+title:              Blog Quam
+email:              blog@quambs.com
+description:        Blog Quam
+author:             Quam 
 baseurl:            ""
-url:                "https://mmrojo.github.io"
+url:                "https://quambs.github.io"
 
 # Social Profiles
 twitter_username:   
